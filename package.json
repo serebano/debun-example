@@ -1,0 +1,12 @@
+{
+  "name": "debun-example",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@serebano/debun": "^0.0.1",
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
